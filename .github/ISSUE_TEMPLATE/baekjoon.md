@@ -7,5 +7,6 @@ assignees: ''
 
 ---
 
-이슈 제목 [Baekjoon] 문제번호: 문제이름
+### 이슈 제목 작성법
+[Baekjoon] 문제 번호: 문제 이름
 Ex) [Baekjoon] 1461: 도서관
