@@ -40,7 +40,7 @@ bool isOk(int sticker_num, int row_st, int col_st) {
 	}
 
 	for (int i = 0; i < row_size ; i++) {
-		//if (!chk) break;
+		if (!chk) break;
 		for (int j = 0; j < col_size; j++) {
 			if (!Sticker[sticker_num][i][j]) continue;
 			if (Monitor[row_st + i][col_st + j]) {
