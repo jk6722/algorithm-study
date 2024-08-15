@@ -13,3 +13,6 @@ PR | [날짜] 문제 이름 <br />
 
 ### 🎯 Goal <br />
 틈틈히 문제를 푸는 것을 목표로 하고, 파이썬으로 푸는 것도 도전
+<br />
+### 🏆 Tier <br />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk6722)](https://solved.ac/jk6722/)
